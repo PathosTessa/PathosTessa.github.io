@@ -7,12 +7,14 @@ title: TOYT
 
 ![Portrait](/assets/images/portrait_small.jpeg)
 
-My name is TOYT and I am a Nanyang Technology University graduate with a Bachelor's Degree in Chemistry. I've been teaching since graduating 5 years ago.
+I graduated with a Bachelor's Degree in Chemistry and Biological Chemistry with a Concentration in Medicinal Chemistry. Being an empathetic and patient educator, my exceptional ability to understand and adapt to the needs of every student helps create a conducive environment for learning. I seek out new ways to educate my students so that they have fun in their learning journey. My passion for Science and Math inspires my students to strive and excel in their learning. Additionally, I stay well-versed with the dynamic education syllabus and focuses on the key points needed for my students to grasp a deeper understanding of the subject. Prior to coaching, I refined my skills by coaching students of different levels.
 
-Currently, I provide personalized tuition for 
+Currently, I provide personalized tuition for
 
-- Secondary School Chemistry
+- Secondary School Chemistry (IP/Pure/Combined/NA/NT)
 - Primary School Science
+- Primary School Math
+
 
 My group classes have a maximum of 3 students as I believe that individual attention is important.
 
